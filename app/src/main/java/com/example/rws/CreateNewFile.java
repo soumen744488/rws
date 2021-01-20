@@ -49,7 +49,7 @@ public class CreateNewFile extends AppCompatActivity {
 
     ArrayList <String> textcontent = new ArrayList<String>() ;
 
-    String[] permissions = {Manifest.permission.WRITE_EXTERNAL_STORAGE};//test
+    String[] permissions = {Manifest.permission.WRITE_EXTERNAL_STORAGE};
 
     String Extn[] = {".txt",".c",".java",".cpp",".xml"};
 
